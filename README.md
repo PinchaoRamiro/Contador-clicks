@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+En este repositorio se encuentra una copia de un proyecto de FreeCodeCamp en el cual he agregado algunos cambios como animaciones 
+El proyecto esta hecho con React.
+enlace del video: https://youtu.be/oX4BKrhX3vY
 
 ## Available Scripts
 
