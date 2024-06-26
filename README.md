@@ -5,6 +5,13 @@ En este repositorio se encuentra una copia de un proyecto de FreeCodeCamp en el 
 El proyecto esta hecho con React.
 enlace del video: https://youtu.be/oX4BKrhX3vY
 
+pueden clonar el repositorio en el botton verde de arriva, y con Node.js se deben ejcutar los comandos de 
+npx create-react-app <name-app> 
+luego pasar el archivo de node_modules a la carpeta raiz del proyecto y ejecutar 
+npm start
+para ver en la pantalla del navegador la app
+
+
 ## Available Scripts
 
 In the project directory, you can run:
